@@ -18,4 +18,6 @@ I decided to only use the trigger for the interaction and animations, because us
 
 A lot of free assets from Unity asset store were used.
 
+A demo video can be found at https://youtu.be/jGLhMjtsHwU
+
 (C) Aleksi Rehu
